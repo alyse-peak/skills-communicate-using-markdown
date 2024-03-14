@@ -8,6 +8,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 ### Testing H3
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 #### This is an H4
 ##### Testing H5
 ###### Last But Not Least
