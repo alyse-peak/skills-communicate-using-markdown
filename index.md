@@ -5,3 +5,5 @@
 ##### Testing H5
 ###### Last But Not Least
 Adding new headings and text to the file. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
